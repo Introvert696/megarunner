@@ -1,0 +1,8 @@
+{ 
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "C_Cpp.default.includePath": ["C:\\sgdk\\inc",
+    "C:\\sgdk\\res",
+    "res",
+    "inc"
+]
+}
